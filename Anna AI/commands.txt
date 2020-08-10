@@ -1,0 +1,11 @@
+open google
+exit
+open spotify
+hey anna
+close
+open youtube
+what is the date
+open minecraft
+open reddit
+open unity
+sleep
